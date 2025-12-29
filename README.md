@@ -92,9 +92,5 @@ Each model was trained under consistent preprocessing and evaluation conditions 
 * **Bidirectional models capture richer temporal context**
 * **CNN layers improve feature extraction when combined with recurrent layers**
 
-The focus is on **learning behavior**, not short-term trading signals.
-
 
 ```
-
-Say the word.
